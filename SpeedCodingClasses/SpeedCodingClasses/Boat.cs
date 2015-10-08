@@ -8,5 +8,15 @@ namespace SpeedCodingClasses
 {
     class Boat : Vehicle
     {
+        public int NumberOfWheels
+        {
+            get { return 0; }
+        }
+
+        public string Horn(string honk)
+        {
+            honk = "skweek skweek";
+            return honk;
+        }
     }
 }
