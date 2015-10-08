@@ -13,10 +13,10 @@ namespace SpeedCodingClasses
             get { return 4; }
         }
 
-        public string Horn(string honk)
+        public string Horn()
         {
-            honk = "GAZOOOOOOGA";
-            return honk;
+
+            return "BBBBRRRRRRRRRRRRR";
         }
 
     }
