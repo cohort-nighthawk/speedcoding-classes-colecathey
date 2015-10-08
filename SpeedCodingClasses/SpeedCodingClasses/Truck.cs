@@ -8,5 +8,6 @@ namespace SpeedCodingClasses
 {
     class Truck : Vehicle
     {
+       
     }
 }
