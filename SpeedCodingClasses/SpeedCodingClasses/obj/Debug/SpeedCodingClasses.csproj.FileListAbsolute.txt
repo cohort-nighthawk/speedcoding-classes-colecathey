@@ -1,0 +1,2 @@
+c:\users\cole\documents\visual studio 2015\Projects\SpeedCodingClasses\SpeedCodingClasses\bin\Debug\SpeedCodingClasses.exe.config
+C:\Users\Cole\Documents\Visual Studio 2015\Projects\speedcoding-classes-colecathey\SpeedCodingClasses\SpeedCodingClasses\bin\Debug\SpeedCodingClasses.exe.config
