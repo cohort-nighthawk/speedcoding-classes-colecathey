@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace SpeedCodingClasses
 {
-    class Program
+    class Boat : Vehicle
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
-
-   
 }
